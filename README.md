@@ -1,4 +1,9 @@
 # k8s-client-list-pods-images
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=lao-tseu-is-alive_k8s-client-list-pods-images&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=lao-tseu-is-alive_k8s-client-list-pods-images)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=lao-tseu-is-alive_k8s-client-list-pods-images&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=lao-tseu-is-alive_k8s-client-list-pods-images)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lao-tseu-is-alive_k8s-client-list-pods-images&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lao-tseu-is-alive_k8s-client-list-pods-images)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=lao-tseu-is-alive_k8s-client-list-pods-images&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=lao-tseu-is-alive_k8s-client-list-pods-images)
+
 k8s-client-list-pods-images is a simple [kubernetes](https://kubernetes.io/) client written in Go that list the pods names and container images in your cluster.
 
 ## usage :
